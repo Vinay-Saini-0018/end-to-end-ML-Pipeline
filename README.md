@@ -1,4 +1,4 @@
-# end-to-end-mlproject
+# end-to-end-ML Pipeline
 This will predict maths score of students based on some conditions.
 
 ---- About project files -------
